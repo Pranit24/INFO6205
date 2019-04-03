@@ -35,3 +35,4 @@ bin/*
 "Quizzes and Exams"/
 
 src/main/java/edu/neu/coe/info6205/sort/simple/MergeSortDecisionTree\.java
+/nbproject/
